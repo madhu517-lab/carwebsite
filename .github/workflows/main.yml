@@ -8,7 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    environment: demo-git
+    environment: demo-git-2026
  
     steps:
       - name: Checkout code
